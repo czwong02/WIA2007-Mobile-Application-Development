@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_animal_lover"
+    app:startDestination="@id/DestHome">
+
+    <fragment
+        android:id="@+id/DestHome"
+        android:name="com.example.practical7.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/NextToDog"
+            app:destination="@id/DestDog" />
+    </fragment>
+    <fragment
+        android:id="@+id/DestAboutApp"
+        android:name="com.example.practical7.AboutAppFragment"
+        android:label="About App"
+        tools:layout="@layout/fragment_about_app" />
+    <fragment
+        android:id="@+id/DestCat"
+        android:name="com.example.practical7.CatFragment"
+        android:label="Cat"
+        tools:layout="@layout/fragment_cat" />
+    <fragment
+        android:id="@+id/DestDog"
+        android:name="com.example.practical7.DogFragment"
+        android:label="Dog"
+        tools:layout="@layout/fragment_dog" />
+</navigation>

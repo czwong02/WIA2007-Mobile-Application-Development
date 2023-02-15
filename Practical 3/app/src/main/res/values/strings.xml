@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="wong_chou_zi_string">WONG CHOU ZI</string>
+    <string name="hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__string">Hello! Im the peanut butter youve been looking for. Im Wong Chou Zi, a young man from Tangkak in Johor. The only person I know the most about is myself. So, let me tell you a little bit more about myself. I am a student pursuing a Bachelor of Computer Science degree with a major in Artificial Intelligence. I am very interested in cybersecurity and other IT topics such as blockchain.</string>
+    <string name="skills_string">Skills</string>
+    <string name="education_string">Education</string>
+    <string name="about_me_string">About Me</string>
+    <string name="i_am_string">I am</string>
+    <string name="bachelor_in_computer_science___aritificial_itelligence__string">Bachelor in Computer Science ( Aritificial itelligence)</string>
+    <string name="wong02um_gmail_com_string">wong02um@gmail.com</string>
+    <string name="__6011_10876498_string">+6011-10876498</string>
+</resources>

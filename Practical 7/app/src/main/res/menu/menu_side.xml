@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/SideNavMain" >
+        <item
+            android:id="@+id/DestHome"
+            android:title="Home" />
+        <item
+            android:id="@+id/DestAboutApp"
+            android:title="About App" />
+    </group>
+    <group android:id="@+id/SideNavAnimal" >
+        <item
+            android:id="@+id/DestCat"
+            android:title="Cat" />
+        <item
+            android:id="@+id/DestDog"
+            android:title="Dog" />
+    </group>
+</menu>

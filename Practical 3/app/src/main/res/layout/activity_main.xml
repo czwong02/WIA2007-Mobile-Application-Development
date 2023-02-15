@@ -1,0 +1,120 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ScrollView android:id="@+id/iphone_13_pro_max___1" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <RelativeLayout android:id="@+id/content_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@+id/page_iphone_13_pro_max___1_ek1" android:layout_marginTop="0dp" android:layout_marginStart="0dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+                <View
+                    android:id="@+id/_bg__iphone_13_pro_max___1_ek2"
+                    android:layout_width="428dp"
+                    android:layout_height="926dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/_bg__iphone_13_pro_max___1_ek2_shape" />
+
+                <View
+                    android:id="@+id/rectangle_1"
+                    android:layout_width="428dp"
+                    android:layout_height="298dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="-41dp"
+                    android:background="@drawable/rectangle_1_shape" />
+                <ImageView android:id="@+id/ellipse_1" android:src="@drawable/ellipse_1" android:contentDescription="ellipse_1" android:layout_marginStart="307dp" android:layout_marginTop="93dp" android:layout_width="100dp" android:layout_height="104dp"/>
+                <TextView android:id="@+id/wong_chou_zi" android:fontFamily="Inter" android:textStyle="bold" android:layout_gravity="center_horizontal|center" android:gravity="center" android:textSize="20sp" android:textColor="@color/_bg__iphone_13_pro_max___1_ek2_color" android:layout_marginLeft="24dp" android:layout_marginTop="166dp" android:layout_width="172dp" android:layout_height="50dp" android:text="@string/wong_chou_zi_string"/>
+
+                <TextView
+                    android:id="@+id/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain_"
+                    android:layout_width="207dp"
+                    android:layout_height="216dp"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginTop="312dp"
+                    android:fontFamily="Inter"
+                    android:text="@string/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__string"
+                    android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color" />
+
+                <ImageView
+                    android:id="@+id/rectangle_2"
+                    android:layout_width="428dp"
+                    android:layout_height="141dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="395dp"
+                    android:contentDescription="rectangle_2"
+                    android:src="@drawable/rectangle_2" />
+
+                <TextView
+                    android:id="@+id/skills"
+                    android:layout_width="153dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-10dp"
+                    android:layout_marginTop="540dp"
+                    android:layout_marginEnd="264dp"
+                    android:fontFamily="Inter"
+                    android:gravity="center"
+                    android:text="@string/skills_string"
+                    android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/education"
+                    android:layout_width="94dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="38dp"
+                    android:layout_marginTop="717dp"
+                    android:fontFamily="Inter"
+                    android:gravity="center"
+                    android:text="@string/education_string"
+                    android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/about_me"
+                    android:layout_width="148dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="280dp"
+                    android:layout_marginEnd="280dp"
+                    android:fontFamily="Inter"
+                    android:gravity="center"
+                    android:text="@string/about_me_string"
+                    android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <ImageView android:id="@+id/image_3" android:src="@drawable/image_3" android:contentDescription="image_3" android:layout_marginStart="61dp" android:layout_marginTop="873dp" android:layout_width="305.5dp" android:layout_height="44.5dp"/>
+                <TextView android:id="@+id/i_am" android:fontFamily="Inter" android:layout_gravity="center_horizontal|center" android:gravity="center" android:textSize="12sp" android:textColor="@color/_bg__iphone_13_pro_max___1_ek2_color" android:layout_marginLeft="-24dp" android:layout_marginTop="135dp" android:layout_width="140dp" android:layout_height="33dp" android:text="@string/i_am_string"/>
+                <TextView android:id="@+id/bachelor_in_computer_science___aritificial_itelligence_" android:fontFamily="Inter" android:layout_gravity="center_horizontal|center" android:gravity="center" android:textSize="12sp" android:textColor="@color/_bg__iphone_13_pro_max___1_ek2_color" android:layout_marginLeft="-17dp" android:layout_marginTop="203dp" android:layout_width="392dp" android:layout_height="37dp" android:text="@string/bachelor_in_computer_science___aritificial_itelligence__string"/>
+                <View android:id="@+id/line_1" android:background="@drawable/line_1_shape" android:layout_marginStart="0dp" android:layout_marginTop="867dp" android:layout_width="428dp" android:layout_height="1dp"/>
+                <View android:id="@+id/line_2" android:background="@drawable/line_2_shape" android:layout_marginStart="101dp" android:layout_marginTop="393dp" android:layout_width="225dp" android:layout_height="1dp"/>
+                <ImageView android:id="@+id/image_4" android:src="@drawable/image_4" android:contentDescription="image_4" android:layout_marginStart="8dp" android:layout_marginTop="824dp" android:layout_width="299.5dp" android:layout_height="23dp"/>
+                <ImageView android:id="@+id/image_5" android:src="@drawable/image_5" android:contentDescription="image_5" android:layout_marginStart="8dp" android:layout_marginTop="799dp" android:layout_width="340dp" android:layout_height="24.5dp"/>
+                <ImageView android:id="@+id/image_6" android:src="@drawable/image_6" android:contentDescription="image_6" android:layout_marginStart="8dp" android:layout_marginTop="774dp" android:layout_width="366dp" android:layout_height="20.5dp"/>
+                <ImageView android:id="@+id/image_7" android:src="@drawable/image_7" android:contentDescription="image_7" android:layout_marginStart="8dp" android:layout_marginTop="746dp" android:layout_width="378dp" android:layout_height="21.5dp"/>
+                <ImageView android:id="@+id/image_8" android:src="@drawable/image_8" android:contentDescription="image_8" android:layout_marginStart="252dp" android:layout_marginTop="316dp" android:layout_width="78dp" android:layout_height="45dp"/>
+                <ImageView android:id="@+id/image_9" android:src="@drawable/image_9" android:contentDescription="image_9" android:layout_marginStart="252dp" android:layout_marginTop="363dp" android:layout_width="21dp" android:layout_height="19dp"/>
+                <TextView android:id="@+id/wong02um_gmail_com" android:fontFamily="Inter" android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color" android:layout_marginLeft="275dp" android:layout_marginTop="366dp" android:layout_width="132dp" android:layout_height="23dp" android:text="@string/wong02um_gmail_com_string"/>
+                <ImageView android:id="@+id/image_10" android:src="@drawable/image_10" android:contentDescription="image_10" android:layout_marginStart="255dp" android:layout_marginTop="386dp" android:layout_width="16dp" android:layout_height="15.5dp"/>
+                <TextView android:id="@+id/__6011_10876498" android:fontFamily="Inter" android:textColor="@color/hello__i_m_the_peanut_butter_you_ve_been_looking_for__i_m_wong_chou_zi__a_young_man_from_tangkak_in_johor__the_only_person_i_know_the_most_about_is_myself__so__let_me_tell_you_a_little_bit_more_about_myself__i_am_a_student_pursuing_a_bachelor_of_computer_science_degree_with_a_major_in_artificial_intelligence__i_am_very_interested_in_cybersecurity_and_other_it_topics_such_as_blockchain__color" android:layout_marginLeft="276dp" android:layout_marginTop="388dp" android:layout_width="113dp" android:layout_height="20dp" android:text="@string/__6011_10876498_string"/>
+
+                <ImageView
+                    android:id="@+id/image_1"
+                    android:layout_width="428dp"
+                    android:layout_height="170dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="-215dp"
+                    android:layout_marginTop="568dp"
+                    android:layout_marginEnd="2dp"
+                    android:contentDescription="image_1"
+                    android:src="@drawable/image_1" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+</HorizontalScrollView>
